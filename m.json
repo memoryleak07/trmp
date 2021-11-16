@@ -61,7 +61,7 @@
         }
         "15": {
         "title": "Via Benvenuto Cellini 19, Portici, NA",
-        "email": "filiale04@fratellimorgese.com",
+        "email": "filiale15@fratellimorgese.com",
         "cassa": 
         {
                 "1": [
@@ -72,6 +72,27 @@
                 "2": [
                 "e1502",
                 "192.168.15.92",
+                "2CITP003074"
+                ],
+                "3": [
+                "e1503",
+                "192.168.1.13",
+                "2CITP003079"
+                ]
+        }
+            "5": {
+        "title": "Via Benvenuto Cellini 19, Portici, NA",
+        "email": "filiale5@fratellimorgese.com",
+        "cassa": 
+        {
+                "1": [
+                "e1501",
+                "192.168.5.11",
+                "2CITP001639"
+                ],
+                "2": [
+                "e1502",
+                "192.168.15.12",
                 "2CITP003074"
                 ],
                 "3": [
