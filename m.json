@@ -1,9 +1,9 @@
-{"filiali": {   
-    "1": {
-        "title": "Via Roma 28, Nola, NA",
-        "email": "filiale01@fratellimorgese.com",
-        "cassa": 
-            {
+{
+    "filiali": {
+        "1": {
+            "title": "Via Roma 28, Nola, NA",
+            "email": "filiale01@fratellimorgese.com",
+            "cassa": {
                 "1": [
                     "e1901",
                     "192.168.1.123",
@@ -16,11 +16,10 @@
                 ]
             }
         },
-    "2": {
-        "title": "Via Roma 83, Portici, NA",
-        "email": "filiale02@fratellimorgese.com",
-        "cassa": 
-            {
+        "2": {
+            "title": "Via Roma 83, Portici, NA",
+            "email": "filiale02@fratellimorgese.com",
+            "cassa": {
                 "1": [
                     "e401",
                     "192.168.1.1",
@@ -38,68 +37,68 @@
                 ]
             }
         },
-    "4": {
-        "title": "Via Benvenuto Cellini 19, Portici, NA",
-        "email": "filiale04@fratellimorgese.com",
-        "cassa": 
-        {
+        "4": {
+            "title": "Via Benvenuto Cellini 19, Portici, NA",
+            "email": "filiale04@fratellimorgese.com",
+            "cassa": {
                 "1": [
-                "e201",
-                "192.168.1.41",
-                "2CITP001639"
+                    "e201",
+                    "192.168.1.41",
+                    "2CITP001639"
                 ],
                 "2": [
-                "e202",
-                "192.168.1.42",
-                "2CITP003074"
+                    "e202",
+                    "192.168.1.42",
+                    "2CITP003074"
                 ],
                 "3": [
-                "e203",
-                "192.168.1.43",
-                "2CITP003079"
+                    "e203",
+                    "192.168.1.43",
+                    "2CITP003079"
                 ]
-        }
-        "15": {
-        "title": "Via Benvenuto Cellini 19, Portici, NA",
-        "email": "filiale15@fratellimorgese.com",
-        "cassa": 
-        {
-                "1": [
-                "e1501",
-                "192.168.15.81",
-                "2CITP001639"
-                ],
-                "2": [
-                "e1502",
-                "192.168.15.92",
-                "2CITP003074"
-                ],
-                "3": [
-                "e1503",
-                "192.168.1.13",
-                "2CITP003079"
-                ]
-        }
-            "5": {
-        "title": "Via Benvenuto Cellini 19, Portici, NA",
-        "email": "filiale5@fratellimorgese.com",
-        "cassa": 
-        {
-                "1": [
-                "e1501",
-                "192.168.5.11",
-                "2CITP001639"
-                ],
-                "2": [
-                "e1502",
-                "192.168.15.12",
-                "2CITP003074"
-                ],
-                "3": [
-                "e1503",
-                "192.168.1.13",
-                "2CITP003079"
-                ]
+            },
+            "15": {
+                "title": "Via Benvenuto Cellini 19, Portici, NA",
+                "email": "filiale15@fratellimorgese.com",
+                "cassa": {
+                    "1": [
+                        "e1501",
+                        "192.168.15.81",
+                        "2CITP001639"
+                    ],
+                    "2": [
+                        "e1502",
+                        "192.168.15.92",
+                        "2CITP003074"
+                    ],
+                    "3": [
+                        "e1503",
+                        "192.168.1.13",
+                        "2CITP003079"
+                    ]
+                },
+                "5": {
+                    "title": "Via Benvenuto Cellini 19, Portici, NA",
+                    "email": "filiale5@fratellimorgese.com",
+                    "cassa": {
+                        "1": [
+                            "e1501",
+                            "192.168.5.11",
+                            "2CITP001639"
+                        ],
+                        "2": [
+                            "e1502",
+                            "192.168.15.12",
+                            "2CITP003074"
+                        ],
+                        "3": [
+                            "e1503",
+                            "192.168.1.13",
+                            "2CITP003079"
+                        ]
+                    }
+                }
+            }
         }
     }
-}}  
+}
